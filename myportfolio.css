@@ -211,7 +211,7 @@ input[type=text]:hover {
 }
 
 /* Submit button */
-input[type=submit] {
+button[type=submit] {
     background-color: black;
     color: white;
     font-weight: bold; 
@@ -226,7 +226,7 @@ input[type=submit] {
 }
 
 /* Hover effect for submit button */
-input[type=submit]:hover {
+button[type=submit]:hover {
     background-color: white; 
     color: black; 
     transform: scale(1.5);
